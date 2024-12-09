@@ -1,0 +1,495 @@
+Page Title,Pages,Page Views
+Visão Geral,Visão Geral do Layout da Plataforma,No Page Views
+Visão Geral do Layout da Plataforma,,379
+Release notes,"Release notes 2024, Release notes 2023, Release notes 2022, Release notes 2021, Release notes 2020",592
+Release notes 2024,"Dezembro, Novembro, Outubro, Setembro, Agosto, Julho, Junho, Maio, Abril, Março, Fevereiro, Janeiro",446
+Novembro,,57
+Outubro,,89
+Setembro,,134
+Agosto,Lançamento de conectores 20/08/2024,97
+Lançamento de conectores 20/08/2024,,189
+Julho,,254
+Junho,,251
+Maio,,198
+Abril,,297
+Março,,293
+Fevereiro,,324
+Janeiro,,139
+Release notes 2023,"Dezembro, Novembro, Outubro, Setembro, Agosto, Julho, Junho, Maio, Abril, Março, Fevereiro, Janeiro",219
+Dezembro,,376
+Novembro,,187
+Outubro,,125
+Setembro,,135
+Agosto,,122
+Julho,,139
+Junho,,120
+Maio,,131
+Abril,,134
+Março,,111
+Fevereiro,,112
+Janeiro,,113
+Release notes 2022,"Dezembro, Novembro, Outubro, Setembro, Agosto, Julho, Junho, Maio, Abril, Março, Fevereiro, Janeiro",163
+Dezembro,,199
+Novembro,,118
+Outubro,,102
+Setembro,,140
+Agosto,,120
+Julho,,206
+Junho,,124
+Maio,,164
+Abril,,120
+Março,,105
+Fevereiro,,126
+Janeiro,,145
+Release notes 2021,,170
+Release notes 2020,,237
+AI Pair Programmer,,112
+Sobre o Digibee Academy,Integration Developer Bootcamp,335
+Integration Developer Bootcamp,,40
+Casos Práticos de Uso,"Melhorando o desempenho de integrações com paginação de API, Automatize o armazenamento de arquivos com a Digibee, Estratégia de reprocessamento em integrações orientadas a eventos, Práticas essenciais para proteger informações sensíveis em pipelines com a Digibee",75
+Práticas essenciais para proteger informações sensíveis em pipelines com a Digibee,,9
+Automatize o armazenamento de arquivos com a Digibee,,24
+Melhorando o desempenho de integrações com paginação de API,,68
+Visão geral de Build,,410
+Canvas,"Smart Connector User Experience, Painel de execução, Modos de design e debug, Linter: Validação de construção do canvas, Como o JSONPath difere nos conectores e no Painel de execução",534
+Smart Connector User Experience,,265
+Painel de execução,,708
+Modos de design e debug,,312
+Linter: Validação de construção do canvas,,697
+Como o JSONPath difere nos conectores e no Painel de execução,,93
+Pipeline,"Como criar um pipeline, Como criar um pipeline usando uma especificação OpenAPI, Como criar um projeto, Histórico de versões do pipeline, Versionamento de pipelines, Processamento de mensagens, Subpipelines, Assistente de IA, Documentação de pipelines com IA",1163
+Como criar um pipeline,,45
+Como criar um pipeline usando uma especificação OpenAPI,,79
+Como criar um projeto,,508
+Histórico de versões do pipeline,,286
+Versionamento de pipelines,,234
+Processamento de mensagens,,322
+Subpipelines,,334
+Assistente de IA,"Geração de Fluxo (Beta), Geração de JOLT (Beta), Dúvidas (Beta)",254
+Geração de Fluxo (Beta),,265
+Geração de JOLT (Beta),,93
+Dúvidas (Beta),,27
+Documentação de pipelines com IA,,482
+Cápsulas,"Como usar Cápsulas, Versionamento de Cápsulas, Cápsulas públicas, Assistente de IA para geração de documentação de cápsulas",673
+Como usar Cápsulas,"Como criar uma coleção de Cápsulas, Como criar um grupo de Cápsulas, Como configurar uma Cápsula, Como construir uma Cápsula, Como testar uma Cápsula, Como salvar uma Cápsula, Como publicar uma Cápsula, Como mudar uma Cápsula de coleção ou grupo, Como arquivar e restaurar uma Cápsula",204
+Como criar uma coleção de Cápsulas,Dimensões do cabeçalho da Cápsula,198
+Dimensões do cabeçalho da Cápsula,,207
+Como criar um grupo de Cápsulas,,226
+Como configurar uma Cápsula,,321
+Como construir uma Cápsula,,322
+Como testar uma Cápsula,,165
+Como salvar uma Cápsula,,234
+Como publicar uma Cápsula,,183
+Como mudar uma Cápsula de coleção ou grupo,,103
+Como arquivar e restaurar uma Cápsula,,90
+Versionamento de Cápsulas,,121
+Cápsulas públicas,"SAP, Digibee Tools, Google Sheets, Gupy, Enviar alerta por email, Totvs Live, Canvas LMS",274
+SAP,,497
+Digibee Tools,,266
+Google Sheets,,223
+Gupy,,362
+Enviar alerta por email,,188
+Totvs Live,,202
+Canvas LMS,,171
+Assistente de IA para geração de documentação de cápsulas,,118
+Double Braces,"Como referenciar dados usando Double Braces, Funções Double Braces, Preenchimento automático de expressões Double Braces",639
+Como referenciar dados usando Double Braces,,763
+Funções Double Braces,"Funções matemáticas, Funções de utilidades, Funções numéricas, Funções de string, Funções de JSON, Funções de data, Funções de comparação, Funções de arquivo, Funções de condição",1083
+Funções matemáticas,,313
+Funções de utilidades,,542
+Funções numéricas,,563
+Funções de string,,1060
+Funções de JSON,,730
+Funções de data,,760
+Funções de comparação,,410
+Funções de arquivo,,239
+Funções de condição,,743
+Preenchimento automático de expressões Double Braces,,167
+Visão geral de triggers,,45
+Web Protocols,"API Trigger, Email Trigger, Email Trigger V2, HTTP Trigger, HTTP File Trigger, REST Trigger",38
+API Trigger,,43
+Email Trigger,,13
+Email Trigger V2,,24
+HTTP Trigger,,39
+HTTP File Trigger,"HTTP File Trigger - Downloads, HTTP File Trigger - Uploads",20
+HTTP File Trigger - Downloads,,17
+HTTP File Trigger - Uploads,,21
+REST Trigger,,75
+Scheduling,Scheduler Trigger,17
+Scheduler Trigger,,33
+Messaging and Events,"Event Trigger, JMS Trigger, Kafka Trigger, RabbitMQ Trigger",15
+Event Trigger,,38
+JMS Trigger,,39
+Kafka Trigger,,44
+RabbitMQ Trigger,,13
+Others,"DynamoDB Streams Trigger, HL7 Trigger, Salesforce Trigger - Events",16
+DynamoDB Streams Trigger,,15
+HL7 Trigger,,20
+Salesforce Trigger - Events,,17
+Autenticação mTLS,,96
+Visão geral de conectores,,320
+Mock de Conectores,,90
+Azure,"Azure Storage Queue Service, Azure Event Hubs, Azure ServiceBus, Azure Key Vault, Azure CosmosDB, Azure Storage Datalake Service",39
+Azure Storage Queue Service,,21
+Azure Event Hubs,,34
+Azure ServiceBus,,18
+Azure Key Vault,,33
+Azure CosmosDB,,35
+Azure Storage Datalake Service,,40
+AWS,"AWS Athena, AWS Security Token Service (STS), AWS CloudWatch, AWS Simple Email Service (SES), AWS SNS, AWS Translate, AWS Secrets Manager, AWS MQ, AWS Lambda, AWS Kinesis Firehose, AWS Kinesis, AWS Key Management Service (KMS), AWS Identity and Access Management (IAM), AWS Eventbridge, AWS Elastic Container Service (ECS)",67
+AWS Athena,,7
+AWS Security Token Service (STS),,67
+AWS CloudWatch,,42
+AWS Simple Email Service (SES),,45
+AWS SNS,,32
+AWS Translate,,16
+AWS Secrets Manager,,16
+AWS MQ,,24
+AWS Lambda,,12
+AWS Kinesis Firehose,,19
+AWS Kinesis,,14
+AWS Key Management Service (KMS),,15
+AWS Identity and Access Management (IAM),,14
+AWS Eventbridge,,10
+AWS Elastic Container Service (ECS),,9
+Enterprise applications,"Braintree, Facebook, GitHub, Telegram, ServiceNow, Workday, Jira, Salesforce, SAP, Zendesk, Twillio, Slack, Wordpress, WhatsApp",180
+Braintree,,20
+Facebook,,18
+GitHub,,17
+Telegram,,20
+ServiceNow,,14
+Workday,,22
+Jira,,19
+Salesforce,AuthToken Reuse para conector Salesforce,530
+AuthToken Reuse para conector Salesforce,,49
+SAP,,360
+Zendesk,,22
+Twillio,,13
+Slack,,28
+Wordpress,,21
+WhatsApp,,17
+File storage,"Blob Storage (Azure), Digibee Storage, Dropbox, FTP, Google Drive, Google Storage, OneDrive, S3 Storage, SFTP, WebDav V2, WebDav (Descontinuado)",359
+Blob Storage (Azure),,238
+Digibee Storage,,318
+Dropbox,,108
+FTP,,330
+Google Drive,,385
+Google Storage,Google Storage: cenários de uso,157
+Google Storage: cenários de uso,,147
+OneDrive,,174
+S3 Storage,,201
+SFTP,,329
+WebDav V2,,172
+WebDav (Descontinuado),,114
+Files,"Append Files, Avro File Reader, Avro File Writer, CSV to Excel, Excel, File Reader, File Writer, Como ler e escrever arquivos dentro de pastas, GZIP V2, GZIP V1 (Descontinuado), NFS, Parquet File Reader, Parquet File Writer, Stream Avro File Reader, Stream Excel, Stream File Reader, Stream File Reader Pattern, Stream JSON File Reader, Stream Parquet File Reader, Stream XML File Reader, ZIP File",297
+Append Files,,284
+Avro File Reader,,110
+Avro File Writer,,70
+CSV to Excel,,129
+Excel,,171
+File Reader,,222
+File Writer,,352
+Como ler e escrever arquivos dentro de pastas,,236
+GZIP V2,,194
+GZIP V1 (Descontinuado),,222
+NFS,,160
+Parquet File Reader,,102
+Parquet File Writer,,75
+Stream Avro File Reader,,56
+Stream Excel,,207
+Stream File Reader,,374
+Stream File Reader Pattern,,237
+Stream JSON File Reader,,242
+Stream Parquet File Reader,,69
+Stream XML File Reader,,179
+ZIP File,,212
+Flow,Delayer,262
+Delayer,,188
+Google/GCP,"Google BigQuery, Google Secret Manager, Google Sheets, Google PubSub, Google Mail, Google Calendar, Google Cloud Functions, Google BigQuery Standard SQL",23
+Google BigQuery,,14
+Google Secret Manager,,15
+Google Sheets,,10
+Google PubSub,,22
+Google Mail,,16
+Google Calendar,,16
+Google Cloud Functions,,36
+Google BigQuery Standard SQL,,33
+Industry solutions,"HL7, HL7 Trigger",166
+HL7,,412
+HL7 Trigger,,230
+Logic,"Block Execution, Choice, Do While, For Each, Parallel Execution, Retry",253
+Block Execution,,253
+Choice,,741
+Do While,,277
+For Each,For Each: exemplo de uso,560
+For Each: exemplo de uso,,375
+Parallel Execution,,330
+Retry,,278
+Networking,DNS,36
+DNS,,40
+Queues and messaging,"Event Publisher, JMS, Kafka, RabbitMQ, SQS (AWS)",191
+Event Publisher,,381
+JMS,JMS: Video sobre Funcionamento,133
+JMS: Video sobre Funcionamento,,131
+Kafka,,235
+RabbitMQ,,243
+SQS (AWS),,245
+Security components,"JWT V2, AES Cryptography, Asymmetric Cryptography, CMS, Digibee JWT (Generate and Decode), Digital Signature, Google IAP Token, Hash, JWT (Descontinuado), LDAP, PBE Cryptography, PGP, RSA Cryptography, Symmetric Cryptography",177
+JWT V2,,321
+AES Cryptography,,150
+Asymmetric Cryptography,,183
+CMS,,139
+Digibee JWT (Generate and Decode),Implementação do Digibee JWT (Generate and Decode),213
+Implementação do Digibee JWT (Generate and Decode),,214
+Digital Signature,,187
+Google IAP Token,,203
+Hash,,219
+JWT (Descontinuado),,142
+LDAP,,253
+PBE Cryptography,,175
+PGP,,204
+RSA Cryptography,,150
+Symmetric Cryptography,,141
+Structured data,"ArangoDb, DynamoDB, Memcached, Cassandra DB, Couchbase, CouchDB, DB V2, DB V1 (Descontinuado), Ehcache, InfluxDB, Mongo DB, Object Store, Relationship, Session Management, Stored Procedure, Stream DB V3, Stream DB V1 (Descontinuado), Google Big Table, Caffeine Cache, Caffeine LoadCache",303
+ArangoDb,,19
+DynamoDB,,100
+Memcached,,211
+Cassandra DB,,234
+Couchbase,,18
+CouchDB,,30
+DB V2,DB V2 - cenários de uso,681
+DB V2 - cenários de uso,,316
+DB V1 (Descontinuado),,120
+Ehcache,,29
+InfluxDB,,38
+Mongo DB,,343
+Object Store,,616
+Relationship,,176
+Session Management,,404
+Stored Procedure,,196
+Stream DB V3,,361
+Stream DB V1 (Descontinuado),,115
+Google Big Table,,161
+Caffeine Cache,,70
+Caffeine LoadCache,,24
+Tools,"JSON Path Transformer V2, Transformer (JOLT) V2, JSLT, Store Account, Assert V2, Assert V1 (descontinuado), Base64, CSV to JSON V2, CSV to JSON V1 (descontinuado), gRPC, HTML to PDF, JSON Generator (Mock), JSON Path Transformer, JSON String to JSON Transformer, JSON to CSV V2, JSON to CSV Transformer (Descontinuado), JSON to JSON String Transformer, JSON to XML Transformer, JSON Transformer, Log, Pipeline Executor, Secure PDF, Script (JavaScript), SSH Remote Command, Template Transformer, Throw Error, Transformer (JOLT), Validator V2, Validator V1 (Descontinuado), XML Schema Validator, XML to JSON Transformer, XML Transformer",239
+JSON Path Transformer V2,,434
+Transformer (JOLT) V2,,389
+JSLT,,575
+Store Account,,304
+Assert V2,,386
+Assert V1 (descontinuado),,129
+Base64,,368
+CSV to JSON V2,,296
+CSV to JSON V1 (descontinuado),,133
+gRPC,,205
+HTML to PDF,,256
+JSON Generator (Mock),,492
+JSON Path Transformer,,724
+JSON String to JSON Transformer,,375
+JSON to CSV V2,,239
+JSON to CSV Transformer (Descontinuado),,213
+JSON to JSON String Transformer,,131
+JSON to XML Transformer,,186
+JSON Transformer,,579
+Log,,290
+Pipeline Executor,,442
+Secure PDF,,128
+Script (JavaScript),,473
+SSH Remote Command,,128
+Template Transformer,Template e suas utilizações,346
+Template e suas utilizações,,422
+Throw Error,,427
+Transformer (JOLT),"Transformações com JOLT, Transformer - Conhecendo o JOLT, Transformer - Adicionar valores aos elementos da lista, Transformer - Visão geral das operations, Transformer - Formatação de datas utilizando split e concat, IF - ELSE simples com JOLT",665
+Transformações com JOLT,,659
+Transformer - Conhecendo o JOLT,,1055
+Transformer - Adicionar valores aos elementos da lista,,187
+Transformer - Visão geral das operations,,324
+Transformer - Formatação de datas utilizando split e concat,,268
+IF - ELSE simples com JOLT,,331
+Validator V2,,346
+Validator V1 (Descontinuado),,197
+XML Schema Validator,,233
+XML to JSON Transformer,,387
+XML Transformer,,246
+Web protocols,"Email V2, Email V1 (Descontinuado), REST V2, REST V1 (Descontinuado), SOAP V3, SOAP V2, SOAP V1 (Descontinuado), WGet (Download HTTP)",179
+Email V2,,284
+Email V1 (Descontinuado),Email V1: Exemplos de uso (Descontinuado),136
+Email V1: Exemplos de uso (Descontinuado),,110
+REST V2,,698
+REST V1 (Descontinuado),,132
+SOAP V3,,212
+SOAP V2,,187
+SOAP V1 (Descontinuado),,145
+WGet (Download HTTP),,348
+Visão geral de Run,,539
+Conceitos de Run,,461
+Implantação,"Implantando um pipeline, Como reimplantar um pipeline, Como promover pipelines entre ambientes, Como verificar o Histórico de implantação do pipeline, Como fazer rollback de versão implantada, Como utilizar as funções avançadas do histórico de implantação, Como criar um plano de implantação de pipeline (Sunset)",319
+Implantando um pipeline,,482
+Como reimplantar um pipeline,,406
+Como promover pipelines entre ambientes,,256
+Como verificar o Histórico de implantação do pipeline,,296
+Como fazer rollback de versão implantada,,354
+Como utilizar as funções avançadas do histórico de implantação,,72
+Como criar um plano de implantação de pipeline (Sunset),,50
+Avisos nos cards,"Como os alertas funcionam nos pipelines em Run, Como solucionar erros de “Out of memory” na implantação, Aviso de conflito de rotas",153
+Como os alertas funcionam nos pipelines em Run,,296
+Como solucionar erros de “Out of memory” na implantação,,1261
+Aviso de conflito de rotas,,192
+Status Geral,"Status de implantação do pipeline, Como utilizar a Busca Global de pipelines implantados (Beta Restrito)",165
+Status de implantação do pipeline,,338
+Como utilizar a Busca Global de pipelines implantados (Beta Restrito),,159
+Alterar Pipeline Engine,Como alterar a versão do Pipeline Engine (Beta Restrito),223
+Como alterar a versão do Pipeline Engine (Beta Restrito),,313
+Visão geral de Monitor,Monitor Insights (Beta),397
+Monitor Insights (Beta),,80
+Execuções concluídas,Download dos logs de execução de pipeline,462
+Download dos logs de execução de pipeline,,414
+Pipeline logs,,427
+Pipeline Metrics,,336
+Alertas,"Como criar um alerta, Como editar um alerta, Como ativar ou desativar um alerta, Como excluir um alerta, Como configurar alertas no Slack, Como configurar alertas no Telegram, Como configurar alertas via webhook, Métricas disponíveis, Boas práticas sobre alertas",303
+Como criar um alerta,,300
+Como editar um alerta,,205
+Como ativar ou desativar um alerta,,262
+Como excluir um alerta,,182
+Como configurar alertas no Slack,,305
+Como configurar alertas no Telegram,,398
+Como configurar alertas via webhook,,244
+Métricas disponíveis,"Execuções de pipeline, Execuções de pipeline em andamento, Execuções de pipeline por instância, Mensagens em fila de um pipeline, Tamanho da mensagem do pipeline, Tempo de resposta do pipeline, Uso de memória do pipeline",184
+Execuções de pipeline,,162
+Execuções de pipeline em andamento,,163
+Execuções de pipeline por instância,,268
+Mensagens em fila de um pipeline,,274
+Tamanho da mensagem do pipeline,,128
+Tempo de resposta do pipeline,,168
+Uso de memória do pipeline,,162
+Boas práticas sobre alertas,,168
+API de métricas de pipeline,"Como configurar API de métricas Digibee com Datadog, Como configurar API de métricas Digibee com Prometheus",284
+Como configurar API de métricas Digibee com Datadog,,543
+Como configurar API de métricas Digibee com Prometheus,,318
+Visão geral,,54
+Zero Trust Network Access (ZTNA),"Pré-requisitos para usar o ZTNA, Como visualizar conexões (Edge Routers), Como visualizar Network Mappings associados com um Edge Router, Como adicionar novas conexões em ZTNA (Edge Routers), Como deletar conexões em ZTNA (Edge Routers), Como visualizar rotas (Network mapping), Como adicionar novas rotas (Network Mapping), Como adicionar rotas em lote para ZTNA, Como editar rotas (Network Mapping), Como deletar rotas (Network Mapping), Como gerar novas chaves (Edge Router), Como mudar o ambiente dos Edge Routers",342
+Pré-requisitos para usar o ZTNA,,55
+Como visualizar conexões (Edge Routers),,43
+Como adicionar novas conexões em ZTNA (Edge Routers),,58
+Como deletar conexões em ZTNA (Edge Routers),,33
+Como visualizar rotas (Network mapping),,34
+Como adicionar novas rotas (Network Mapping),,44
+Como editar rotas (Network Mapping),,21
+Como deletar rotas (Network Mapping),,26
+Como gerar novas chaves (Edge Router),,25
+Como mudar o ambiente dos Edge Routers,,15
+Virtual Private Network (VPN),,32
+Auditoria,,389
+Autenticação e autorização de usuários,"Como habilitar e desabilitar a autenticação de dois fatores, Fluxo de login",258
+Como habilitar e desabilitar a autenticação de dois fatores,,291
+Fluxo de login,Como resolver problemas para fazer o login na Digibee Integration Platform,646
+Como resolver problemas para fazer o login na Digibee Integration Platform,,323
+Controle de acesso,"Usuários, Grupos, Papéis",383
+Usuários,,362
+Grupos,,192
+Papéis,Lista de permissões por serviço,431
+Lista de permissões por serviço,,102
+Integração com provedores de identidades,"Como integrar um provedor de identidade, Regras de autenticação, Integração de grupos IdP com grupos Digibee",576
+Como integrar um provedor de identidade,,454
+Regras de autenticação,,319
+Integração de grupos IdP com grupos Digibee,"Como criar uma integração de grupo, Como testar uma integração de grupo, Como habilitar uma integração de grupo, Como editar uma integração de grupo, Como remover uma integração de grupo",289
+Como criar uma integração de grupo,,221
+Como testar uma integração de grupo,,234
+Como habilitar uma integração de grupo,,186
+Como editar uma integração de grupo,,187
+Como remover uma integração de grupo,,173
+Globals,"Como criar Globals, Como editar ou excluir Globals, Como usar Globals",541
+Como criar Globals,,207
+Como editar ou excluir Globals,,110
+Como usar Globals,,241
+Contas (Accounts),"Configurando cada tipo de conta, Monitore alterações nas configurações da conta em pipelines implantados, Nova Arquitetura OAuth2, Configurando Account Dropbox",1005
+Configurando cada tipo de conta,,654
+Monitore alterações nas configurações da conta em pipelines implantados,,251
+Nova Arquitetura OAuth2,Cadastro de novos provedores OAuth,456
+Cadastro de novos provedores OAuth,,260
+Configurando Account Dropbox,,157
+Consumers (Chaves de API),,694
+Modelos de Relacionamento,,174
+Multi-Instância,Implantando um pipeline de multi-instância,391
+Implantando um pipeline de multi-instância,,227
+Políticas,"Segurança, Transformação",238
+Segurança,"Política de acesso à APIs internas, Política de acesso à APIs externas, Política de campos sensíveis",93
+Política de acesso à APIs internas,,142
+Política de acesso à APIs externas,,217
+Política de campos sensíveis,,170
+Transformação,"Cabeçalho HTTP personalizado, Cabeçalho HTTP CORS",134
+Cabeçalho HTTP personalizado,,170
+Cabeçalho HTTP CORS,,127
+Modelos de licenciamento,,580
+Capacidade e cotas,,600
+Consumo de licenças,,289
+Digibee APIs,Como criar credenciais de API,214
+Como criar credenciais de API,,165
+Digibeectl,"Comece a usar, Digibeectl sintaxe, Operações do Digibeectl",106
+Comece a usar,Como instalar o Digibeectl no Windows,42
+Como instalar o Digibeectl no Windows,,61
+Digibeectl sintaxe,,59
+Operações do Digibeectl,,124
+Pipeline Engine,"Digibee Integration Platform Pipeline Engine v2, Suporte a Credenciais Dinâmicas (Beta Restrito)",125
+Digibee Integration Platform Pipeline Engine v2,,39
+Suporte a Credenciais Dinâmicas (Beta Restrito),,39
+Requisitos de sistema,,26
+Sistema de URLs,,93
+Bancos de dados suportados,,88
+SaaS dedicado na Digibee Integration Platform,"Arquitetura da Digibee Integration Platform no modelo Saas dedicado, Requisitos para o modelo SaaS dedicado da Digibee, Site-to-Site VPN para suporte de clientes SaaS dedicado, Responsabilidades dos cliente Saas dedicado, Política de Imagens dos Nodes Kubernetes Customizados, Instalação do Digibee Dedicated SaaS no AWS",68
+Arquitetura da Digibee Integration Platform no modelo Saas dedicado,,76
+Requisitos para o modelo SaaS dedicado da Digibee,,30
+Site-to-Site VPN para suporte de clientes SaaS dedicado,,62
+Responsabilidades dos cliente Saas dedicado,,24
+Política de Imagens dos Nodes Kubernetes Customizados,,35
+Instalação do Digibee Dedicated SaaS no AWS,"Como instalar os requisitos antes da instalação da Digibee Integration Platform no EKS, Permissões para usar a Digibee Integration Platform no EKS, Como criar nós customizados para EKS (Golden Images)",42
+Como instalar os requisitos antes da instalação da Digibee Integration Platform no EKS,,24
+Permissões para usar a Digibee Integration Platform no EKS,,26
+Como criar nós customizados para EKS (Golden Images),,36
+Como executar a limpeza de cache da Digibee Integration Platform,,150
+Orientações para integrações,"Como resolver o Erro 409: “You cannot update a pipeline that is not on draft mode”, Como resolver o erro ""Pipeline execution was aborted"", Boas práticas ao validar mensagens em um pipeline consumer, Autenticação integrada com o Microsoft Entra ID",8
+Comportamento e configuração de conectores,"Implementação do Digibee JWT, Timeout no conector Pipeline Executor, Como usar DISTINCT e COUNT no Object Store",7
+Dicas de acesso e desempenho da Plataforma,Como receber atualizações da Status Page da Digibee,8
+Orientações sobre governança e solução de problemas,"Como consumir pipelines com Internal API usando ZTNA, Como gerar, converter e cadastrar SSH Keys, Como configurar o mTLS na Digibee Integration Platform, Perguntas frequentes: Certificados no mTLS",12
+Perguntas frequentes: Suporte ao Cliente Digibee,,17
+Autenticação integrada com o Microsoft Entra ID,,12
+Como usar DISTINCT e COUNT no Object Store,,16
+Como consumir pipelines com Internal API usando ZTNA,,14
+"Como gerar, converter e cadastrar SSH Keys",,12
+Como configurar o mTLS na Digibee Integration Platform,,10
+Perguntas frequentes: Certificados no mTLS,,8
+Artigos para solução de problemas,,26
+Como receber atualizações da Status Page da Digibee,,7
+Implementação do Digibee JWT,,8
+"Como resolver o erro ""Pipeline execution was aborted""",,13
+Como resolver o Erro 409: “You cannot update a pipeline that is not on draft mode”,,10
+Timeout no conector Pipeline Executor,,15
+Suporte ao cliente Digibee,"Como gerenciar o acesso ao suporte no seu realm, Como usar a Inteligência Artificial do Suporte ao cliente",518
+Como gerenciar o acesso ao suporte no seu realm,,351
+Como usar a Inteligência Artificial do Suporte ao cliente,,15
+Status Page,,273
+Programa Beta,,502
+Nosso compromisso com segurança e conformidade,,286
+Padrões de Integração Digibee,,544
+Integration Empowerment Team (IET),Jornada de Integração,146
+Jornada de Integração,,618
+Exemplos de paginação,,716
+Tutorial de paginação,"Tutorial de paginação - parte 1, Tutorial de paginação - parte 2, Tutorial de paginação - parte 3, Tutorial de paginação - parte 4",588
+Tutorial de paginação - parte 1,,351
+Tutorial de paginação - parte 2,,275
+Tutorial de paginação - parte 3,,318
+Tutorial de paginação - parte 4,,217
+Processamento em lote,,383
+Arquitetura orientada a eventos,,607
+Checklist de construção de pipelines,,219
+Boas práticas ao validar mensagens em um pipeline consumer,,8
+Funções e utilidades para banco de dados,,579
+Como usar sua conta do Gmail com o componente de e-mail Digibee (SMTP),,351
+Como enviar logs para serviços externos,,373
+Como construir fluxos de integração que enviam notificações de erro,,364
+"Como resolver nomes sem DNS - REST, SOAP, SAP (web protocols)",,214
+Como visualizar Network Mappings associados com um Edge Router,,13
+Como adicionar rotas em lote para ZTNA,,20
+Estratégia de reprocessamento em integrações orientadas a eventos,,41
+Dezembro,,17

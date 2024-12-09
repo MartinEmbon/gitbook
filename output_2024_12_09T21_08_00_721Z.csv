@@ -1,0 +1,491 @@
+Page Title,Pages,Page Views
+Overview,Platform Layout Overview,No Page Views
+Platform Layout Overview,,750
+Release notes,"Release notes 2024, Release notes 2023, Release notes 2022, Release notes 2021, Release notes 2020",1144
+Release notes 2024,"November, October, September, August, July, June, May, April, March, February, January",651
+November,,51
+October,,85
+September,,96
+August,Connectors release 08/20/2024,223
+Connectors release 08/20/2024,,160
+July,,163
+June,,134
+May,,180
+April,,165
+March,,192
+February,,244
+January,,271
+Release notes 2023,"December, November, October, September, August, July, June, May, April, March, February, January",352
+December,,383
+November,,331
+October,,350
+September,,224
+August,,248
+July,,261
+June,,198
+May,,179
+April,,186
+March,,189
+February,,200
+January,,176
+Release notes 2022,"December, November, October, September, August, July, June, May, April, March, February, January",219
+December,,172
+November,,216
+October,,201
+September,,170
+August,,218
+July,,203
+June,,157
+May,,191
+April,,184
+March,,187
+February,,230
+January,,259
+Release notes 2021,,252
+Release notes 2020,,611
+AI Pair Programmer,,136
+About Digibee Academy,Integration Developer Bootcamp,659
+Integration Developer Bootcamp,,89
+Use Cases in Action,"Improving integration performance with API pagination, Automating file storage with Digibee, Reprocessing strategy in event-driven integrations",134
+Reprocessing strategy in event-driven integrations,,28
+Improving integration performance with API pagination,,84
+Automating file storage with Digibee,,41
+Build overview,,770
+Canvas,"Smart Connector User Experience, Execution panel, Design and debug mode, Linter: Canvas building validation, How JSONPath differs in connectors and the Execution panel",875
+Smart Connector User Experience,,315
+Execution panel,,657
+Design and debug mode,,680
+Linter: Canvas building validation,,822
+How JSONPath differs in connectors and the Execution panel,,162
+Pipeline,"How to create a pipeline, How to scaffold a pipeline using an OpenAPI specification, How to create a project, Pipeline version history, Pipeline versioning, Messages processing, Subpipelines, AI Assistant, Pipeline documentation with AI",1739
+How to create a pipeline,,63
+How to scaffold a pipeline using an OpenAPI specification,,89
+How to create a project,,513
+Pipeline version history,,429
+Pipeline versioning,,555
+Messages processing,,460
+Subpipelines,,598
+AI Assistant,"Flow Generation (Beta), JOLT Generation (Beta), Docs Q&A (Beta)",74
+Flow Generation (Beta),,86
+JOLT Generation (Beta),,45
+Docs Q&A (Beta),,23
+Pipeline documentation with AI,,831
+Capsules,"How to use Capsules, Capsules versioning, Public capsules, AI Assistant for Capsules Docs Generation",1249
+How to use Capsules,"How to create a Capsule collection, How to create a Capsule group, How to configure a Capsule, How to build a Capsule, How to test a Capsule, How to save a Capsule, How to publish a Capsule, How to change a Capsule collection or group, How to archive and restore a Capsule",425
+How to create a Capsule collection,Capsule header dimensions,391
+Capsule header dimensions,,271
+How to create a Capsule group,,502
+How to configure a Capsule,,752
+How to build a Capsule,,596
+How to test a Capsule,,307
+How to save a Capsule,,242
+How to publish a Capsule,,295
+How to change a Capsule collection or group,,203
+How to archive and restore a Capsule,,232
+Capsules versioning,,336
+Public capsules,"SAP, Digibee Tools, Google Sheets, Gupy, Send notifications via email, Totvs Live, Canvas LMS",356
+SAP,,553
+Digibee Tools,,491
+Google Sheets,,254
+Gupy,,500
+Send notifications via email,,215
+Totvs Live,,246
+Canvas LMS,,327
+AI Assistant for Capsules Docs Generation,,143
+Double Braces,"How to reference data using Double Braces, Double Braces functions, Double Braces autocomplete",1479
+How to reference data using Double Braces,,1562
+Double Braces functions,"Math functions, Utilities functions, Numerical functions, String functions, JSON functions, Date functions, Comparison functions, File functions, Conditional functions",1768
+Math functions,,760
+Utilities functions,,1298
+Numerical functions,,1029
+String functions,,1887
+JSON functions,,1426
+Date functions,,1938
+Comparison functions,,618
+File functions,,329
+Conditional functions,,1371
+Double Braces autocomplete,,182
+Triggers overview,,75
+Web Protocols,"API Trigger, Email Trigger, Email Trigger V2, HTTP Trigger, HTTP File Trigger, REST Trigger",49
+API Trigger,,53
+Email Trigger,,35
+Email Trigger V2,,28
+HTTP Trigger,,56
+HTTP File Trigger,"HTTP File Trigger - Downloads, HTTP File Trigger - Uploads",41
+HTTP File Trigger - Downloads,,30
+HTTP File Trigger - Uploads,,26
+REST Trigger,,121
+Scheduling,Scheduler Trigger,21
+Scheduler Trigger,,95
+Messaging and Events,"Event Trigger, JMS Trigger, Kafka Trigger, RabbitMQ Trigger",25
+Event Trigger,,71
+JMS Trigger,,25
+Kafka Trigger,,30
+RabbitMQ Trigger,,22
+Others,"DynamoDB Streams Trigger, HL7 Trigger, Salesforce Trigger - Events",22
+DynamoDB Streams Trigger,,22
+HL7 Trigger,,51
+Salesforce Trigger - Events,,27
+mTLS authentication,,133
+Connectors overview,,657
+Connector Mocking,,56
+Azure,"Azure Storage Queue Service, Azure Event Hubs, Azure ServiceBus, Azure Storage DataLake Service, Azure Key Vault, Azure CosmosDB",72
+Azure Storage Queue Service,,50
+Azure Event Hubs,,52
+Azure ServiceBus,,36
+Azure Storage DataLake Service,,103
+Azure Key Vault,,90
+Azure CosmosDB,,87
+AWS,"AWS Athena, AWS Elastic Container Service (ECS), AWS Key Management Service (KMS), AWS Security Token Service (STS), AWS Eventbridge, AWS Kinesis, AWS CloudWatch, AWS Identity and Access Management (IAM), AWS Kinesis Firehose, AWS Lambda, AWS MQ, AWS Secrets Manager, AWS Simple Email Service (SES), AWS SNS, AWS Translate",89
+AWS Athena,,66
+AWS Elastic Container Service (ECS),,48
+AWS Key Management Service (KMS),,48
+AWS Security Token Service (STS),,76
+AWS Eventbridge,,53
+AWS Kinesis,,50
+AWS CloudWatch,,75
+AWS Identity and Access Management (IAM),,40
+AWS Kinesis Firehose,,30
+AWS Lambda,,72
+AWS MQ,,43
+AWS Secrets Manager,,55
+AWS Simple Email Service (SES),,54
+AWS SNS,,60
+AWS Translate,,51
+Enterprise applications,"Braintree, Facebook, GitHub, Telegram, ServiceNow, Workday, Jira, Salesforce, SAP, Zendesk, Twilio, Slack, Wordpress, WhatsApp",393
+Braintree,,58
+Facebook,,55
+GitHub,,68
+Telegram,,69
+ServiceNow,,63
+Workday,,73
+Jira,,75
+Salesforce,AuthToken Reuse for Salesforce connector,978
+AuthToken Reuse for Salesforce connector,,52
+SAP,,486
+Zendesk,,53
+Twilio,,36
+Slack,,81
+Wordpress,,35
+WhatsApp,,103
+File storage,"Blob Storage (Azure), Digibee Storage, Dropbox, FTP, Google Drive, Google Storage, OneDrive, S3 Storage, SFTP, WebDav V2, WebDav (Deprecated)",752
+Blob Storage (Azure),,767
+Digibee Storage,,659
+Dropbox,,254
+FTP,,643
+Google Drive,,352
+Google Storage,Google Storage: usage scenarios,349
+Google Storage: usage scenarios,,214
+OneDrive,,471
+S3 Storage,,489
+SFTP,,705
+WebDav V2,,286
+WebDav (Deprecated),,355
+Files,"Append Files, Avro File Reader, Avro File Writer, CSV to Excel, Excel, File Reader, File Writer, How to read and write files inside a folder, GZIP V2, GZIP V1 (Deprecated), Parquet File Reader, Parquet File Writer, Stream Avro File Reader, Stream Excel, Stream File Reader, Stream File Reader Pattern, Stream JSON File Reader, Stream Parquet File Reader, Stream XML File Reader, ZIP File, NFS",505
+Append Files,,267
+Avro File Reader,,73
+Avro File Writer,,263
+CSV to Excel,,337
+Excel,,358
+File Reader,,746
+File Writer,,634
+How to read and write files inside a folder,,424
+GZIP V2,,317
+GZIP V1 (Deprecated),,243
+Parquet File Reader,,88
+Parquet File Writer,,170
+Stream Avro File Reader,,66
+Stream Excel,,680
+Stream File Reader,,404
+Stream File Reader Pattern,,429
+Stream JSON File Reader,,569
+Stream Parquet File Reader,,375
+Stream XML File Reader,,383
+ZIP File,,296
+NFS,,340
+Flow,Delayer,462
+Delayer,,340
+Google/GCP,"Google BigQuery, Google Calendar, Google Cloud Functions, Google PubSub, Google Mail, Google Sheets, Google Secret Manager, Google BigQuery Standard SQL",68
+Google BigQuery,,59
+Google Calendar,,38
+Google Cloud Functions,,95
+Google PubSub,,58
+Google Mail,,80
+Google Sheets,,66
+Google Secret Manager,,46
+Google BigQuery Standard SQL,,50
+Industry solutions,"HL7, HL7 Trigger",287
+HL7,,442
+HL7 Trigger,,282
+Logic,"Block Execution, Choice, Do While, For Each, Parallel Execution, Retry",524
+Block Execution,,894
+Choice,,1825
+Do While,,754
+For Each,For Each: usage example,1313
+For Each: usage example,,615
+Parallel Execution,,585
+Retry,,556
+Networking,DNS,59
+DNS,,85
+Queues and messaging,"Event Publisher, JMS, Kafka, RabbitMQ, SQS (AWS)",471
+Event Publisher,,1038
+JMS,,444
+Kafka,,449
+RabbitMQ,,423
+SQS (AWS),,741
+Security components,"JWT V2, AES Cryptography, Asymmetric Cryptography, CMS, Digibee JWT (Generate and Decode), Digital Signature, Google IAP Token, Hash, JWT (Deprecated), LDAP, PBE Cryptography, PGP, RSA Cryptography, Symmetric Cryptography",369
+JWT V2,,651
+AES Cryptography,,446
+Asymmetric Cryptography,,257
+CMS,,340
+Digibee JWT (Generate and Decode),Digibee JWT (Generate and Decode) implementation,648
+Digibee JWT (Generate and Decode) implementation,,374
+Digital Signature,,264
+Google IAP Token,,654
+Hash,,476
+JWT (Deprecated),,730
+LDAP,,412
+PBE Cryptography,,320
+PGP,,297
+RSA Cryptography,,259
+Symmetric Cryptography,,203
+Structured data,"ArangoDb, DynamoDB, Memcached, Cassandra DB, Couchbase, CouchDB, DB V2, DB V1 (Deprecated), Ehcache, InfluxDB, Mongo DB, Object Store, Relationship, Session Management, Stored Procedure, Stream DB V3, Stream DB V1 (Deprecated), Google Big Table, Caffeine Cache, Caffeine LoadCache",414
+ArangoDb,,43
+DynamoDB,,182
+Memcached,,372
+Cassandra DB,,545
+Couchbase,,41
+CouchDB,,41
+DB V2,DB V2 - usage scenarios,1641
+DB V2 - usage scenarios,,751
+DB V1 (Deprecated),,224
+Ehcache,,67
+InfluxDB,,50
+Mongo DB,,485
+Object Store,,1985
+Relationship,,309
+Session Management,,1190
+Stored Procedure,,649
+Stream DB V3,,847
+Stream DB V1 (Deprecated),,286
+Google Big Table,,591
+Caffeine Cache,,228
+Caffeine LoadCache,,54
+Tools,"JSON Path Transformer V2, Transformer (JOLT) V2, JSLT, Store Account, Assert V2, Assert V1 (deprecated), Base64, CSV to JSON V2, CSV to JSON V1 (deprecated), gRPC, HTML to PDF, JSON Generator (Mock), JSON Path Transformer, JSON String to JSON Transformer, JSON to CSV V2, JSON to CSV Transformer (Deprecated), JSON to JSON String Transformer, JSON to XML Transformer, JSON Transformer, Log, Pipeline Executor, Secure PDF, Script (JavaScript), SSH Remote Command, Throw Error, Transformer (JOLT), Validator V2, Validator V1 (Deprecated), XML Schema Validator, XML Transformer, XML to JSON Transformer, Template Transformer",767
+JSON Path Transformer V2,,589
+Transformer (JOLT) V2,,2039
+JSLT,,1848
+Store Account,,373
+Assert V2,,757
+Assert V1 (deprecated),,241
+Base64,,425
+CSV to JSON V2,,644
+CSV to JSON V1 (deprecated),,240
+gRPC,,381
+HTML to PDF,,403
+JSON Generator (Mock),,2538
+JSON Path Transformer,,1178
+JSON String to JSON Transformer,,642
+JSON to CSV V2,,595
+JSON to CSV Transformer (Deprecated),,264
+JSON to JSON String Transformer,,711
+JSON to XML Transformer,,838
+JSON Transformer,,1738
+Log,,730
+Pipeline Executor,,785
+Secure PDF,,284
+Script (JavaScript),,762
+SSH Remote Command,,657
+Throw Error,,745
+Transformer (JOLT),"Transformations with JOLT, Transformer - Getting to know JOLT, Transformer - Add values to list elements, Transformer - Operations overview, Transformer - Date formatting using split and concat, IF - ELSE simple with JOLT",4352
+Transformations with JOLT,,9996
+Transformer - Getting to know JOLT,,21227
+Transformer - Add values to list elements,,1797
+Transformer - Operations overview,,1871
+Transformer - Date formatting using split and concat,,1737
+IF - ELSE simple with JOLT,,4202
+Validator V2,,1130
+Validator V1 (Deprecated),,542
+XML Schema Validator,,576
+XML Transformer,,484
+XML to JSON Transformer,,737
+Template Transformer,Template and its uses,1041
+Template and its uses,,570
+Web protocols,"Email V2, Email V1 (Deprecated), REST V2, REST V1 (Deprecated), SOAP V3, SOAP V2, SOAP V1 (Deprecated), WGet (Download HTTP)",336
+Email V2,,797
+Email V1 (Deprecated),Email V1: Usage example (Deprecated),243
+Email V1: Usage example (Deprecated),,165
+REST V2,,2033
+REST V1 (Deprecated),,233
+SOAP V3,,684
+SOAP V2,,537
+SOAP V1 (Deprecated),,267
+WGet (Download HTTP),,496
+Run overview,,744
+Run concepts,,710
+Deployment,"Deploying a pipeline, How to redeploy a pipeline, Promoting pipelines across environments, How to check the pipeline deployment History, How to rollback to a previous deployment version, Using deployment history advanced functions, How to create a pipeline deployment plan (sunset)",472
+Deploying a pipeline,,784
+How to redeploy a pipeline,,559
+Promoting pipelines across environments,,144
+How to check the pipeline deployment History,,598
+How to rollback to a previous deployment version,,1013
+Using deployment history advanced functions,,169
+How to create a pipeline deployment plan (sunset),,179
+Warnings on cards,"How warnings work on pipelines in Run, Solving the “Out of memory” errors in deployment, Warning of route conflicts",339
+How warnings work on pipelines in Run,,437
+Solving the “Out of memory” errors in deployment,,1058
+Warning of route conflicts,,327
+General status,"Pipeline deployment status, How to use the Global Search for deployed pipelines (Restricted Beta)",933
+Pipeline deployment status,,558
+How to use the Global Search for deployed pipelines (Restricted Beta),,280
+Pipeline Engine change,How to change the version of the Pipeline Engine (Restricted Beta),621
+How to change the version of the Pipeline Engine (Restricted Beta),,417
+Monitor overview,Monitor Insights (Beta),892
+Monitor Insights (Beta),,139
+Completed executions,Pipeline execution logs download,676
+Pipeline execution logs download,,368
+Pipeline logs,,881
+Pipeline Metrics,,937
+Pipeline Metrics API,"How to set up Digibee API metrics with Datadog, How to set up Digibee API metrics with Prometheus",596
+How to set up Digibee API metrics with Datadog,,1255
+How to set up Digibee API metrics with Prometheus,,924
+Alerts,"How to create an alert, How to edit an alert, How to activate or deactivate an alert, How to delete an alert, How to configure alerts on Slack, How to configure alerts on Telegram, How to configure alerts through a webhook, Available metrics, Best practices about alerts",422
+How to create an alert,,336
+How to edit an alert,,244
+How to activate or deactivate an alert,,202
+How to delete an alert,,221
+How to configure alerts on Slack,,302
+How to configure alerts on Telegram,,895
+How to configure alerts through a webhook,,379
+Available metrics,"Pipeline Executions, Pipeline Execution per Instance, Pipeline Inflight Executions, Pipeline Memory Usage, Pipeline Message Size, Pipeline Messages on Queue, Pipeline Response Time",374
+Pipeline Executions,,449
+Pipeline Execution per Instance,,242
+Pipeline Inflight Executions,,481
+Pipeline Memory Usage,,622
+Pipeline Message Size,,429
+Pipeline Messages on Queue,,397
+Pipeline Response Time,,247
+Best practices about alerts,,292
+Overview,,64
+Zero Trust Network Access (ZTNA),"Prerequisites for using ZTNA, How to view connections (Edge Routers), How to view the Network Mappings associated with an Edge Router, How to add new ZTNA connections (Edge Routers), How to delete connections (Edge Routers), How to view routes (Network Mapping), How to add new routes (Network Mapping), How to add routes in batch for ZTNA, How to edit routes (Network Mapping), How to delete routes (Network Mapping), How to generate new keys (Edge Router), How to change the environment of Edge routers",859
+Prerequisites for using ZTNA,,38
+How to view connections (Edge Routers),,46
+How to add new ZTNA connections (Edge Routers),,55
+How to delete connections (Edge Routers),,40
+How to view routes (Network Mapping),,22
+How to add new routes (Network Mapping),,31
+How to edit routes (Network Mapping),,27
+How to delete routes (Network Mapping),,28
+How to generate new keys (Edge Router),,30
+How to change the environment of Edge routers,,28
+Virtual Private Network (VPN),,31
+Audit,,358
+User authentication and authorization,"How to activate and deactivate two-factor authentication, Login flow",737
+How to activate and deactivate two-factor authentication,,381
+Login flow,How to solve login problems on the Digibee Integration Platform,461
+How to solve login problems on the Digibee Integration Platform,,506
+Access control,"Users, Groups, Roles",523
+Users,,342
+Groups,,479
+Roles,List of permissions by service,668
+List of permissions by service,,169
+Identity provider integration,"How to integrate an identity provider, Authentication rules, Integration of IdP groups with Digibee groups",808
+How to integrate an identity provider,,347
+Authentication rules,,321
+Integration of IdP groups with Digibee groups,"How to create a group integration, How to test a group integration, How to enable group integrations, How to edit a group integration, How to delete a group integration",347
+How to create a group integration,,254
+How to test a group integration,,260
+How to enable group integrations,,110
+How to edit a group integration,,235
+How to delete a group integration,,123
+Globals,"How to create Globals, How to edit or delete Globals, How to use Globals",715
+How to create Globals,,362
+How to edit or delete Globals,,175
+How to use Globals,,530
+Accounts,"Configuring each account type, Monitor changes to account settings in deployed pipelines, New OAuth2 Architecture, Configuring the Dropbox account",1138
+Configuring each account type,,691
+Monitor changes to account settings in deployed pipelines,,408
+New OAuth2 Architecture,Registration of new OAuth providers,656
+Registration of new OAuth providers,,540
+Configuring the Dropbox account,,251
+Consumers (API Keys),,878
+Relationship model,,262
+Multi-Instance,Deploying a multi-instance pipeline,468
+Deploying a multi-instance pipeline,,312
+Policies,"Security, Transformation",462
+Security,"Internal API access policy, External API access policy, Sensitive fields policy",121
+Internal API access policy,,446
+External API access policy,,312
+Sensitive fields policy,,396
+Transformation,"Custom HTTP header, CORS HTTP header",123
+Custom HTTP header,,162
+CORS HTTP header,,134
+Licensing models,,676
+Capacity and quotas,,907
+License consumption,,217
+Digibee APIs,How to create API credentials,430
+How to create API credentials,,195
+Digibeectl,"Getting started, Digibeectl Syntax, Digibeectl operations",1269
+Getting started,How to install Digibeectl on Windows,489
+How to install Digibeectl on Windows,,96
+Digibeectl Syntax,,90
+Digibeectl operations,,561
+Pipeline Engine,"Digibee Integration Platform Pipeline Engine v2, Support Dynamic Accounts (Restricted Beta)",817
+Digibee Integration Platform Pipeline Engine v2,,104
+Support Dynamic Accounts (Restricted Beta),,65
+System requirements,,332
+URLs System,,491
+Supported databases,,741
+Digibee Integration Platform Dedicated SaaS,"Digibee Integration Platform architecture on Dedicated Saas model, Requirements for Digibee Dedicated Saas model, Site-to-Site VPN for dedicated SaaS customer support, Dedicated Saas customer responsibilities, Custom Images of Kubernetes Nodes, Digibee Dedicated SaaS installation on AWS",218
+Digibee Integration Platform architecture on Dedicated Saas model,,184
+Requirements for Digibee Dedicated Saas model,,55
+Site-to-Site VPN for dedicated SaaS customer support,,145
+Dedicated Saas customer responsibilities,,71
+Custom Images of Kubernetes Nodes,,52
+Digibee Dedicated SaaS installation on AWS,"How to install requirements before installing Digibee Integration Platform on EKS, Permissions to use Digibee Integration Platform on EKS, How to create custom nodes for EKS (Golden Images)",75
+How to install requirements before installing Digibee Integration Platform on EKS,,33
+Permissions to use Digibee Integration Platform on EKS,,35
+How to create custom nodes for EKS (Golden Images),,86
+How to clean the Digibee Integration Platform cache,,56
+Troubleshooting articles,,59
+Digibee JWT implementation,,11
+How to resolve Error 409: “You cannot update a pipeline that is not on draft mode”,,9
+Timeout in the Pipeline Executor connector,,11
+Digibee Customer Support,"How to manage support access on your realm, How to use Digibee Customer Support’s Artificial Intelligence",760
+How to manage support access on your realm,,155
+How to use Digibee Customer Support’s Artificial Intelligence,,21
+Status Page,,379
+Beta Program,,297
+Our commitment to security and compliance,,761
+Integration Empowerment Team (IET),Integration Journey,471
+Integration Journey,,449
+Paginations Example,,491
+Pagination tutorial,"Pagination tutorial - part 1, Pagination tutorial - part 2, Pagination tutorial - part 3, Pagination tutorial - part 4",665
+Pagination tutorial - part 1,,593
+Pagination tutorial - part 2,,297
+Pagination tutorial - part 3,,442
+Pagination tutorial - part 4,,256
+Batch processing,,425
+Event-driven architecture,,792
+Pipeline building checklist,,339
+Best practices on validating messages in a consumer pipeline,,7
+Functions and uses for databases,,583
+How to use your Gmail account with the Digibee email component (SMTP),,263
+How to send logs to external services,,317
+How to build integration flows that send error notifications,,678
+"How to resolve names without a DNS - REST, SOAP, SAP (web protocols)",,381
+Integration guidance,"How to resolve Error 409: “You cannot update a pipeline that is not on draft mode”, How to resolve the ""Pipeline execution was aborted"" error, Best practices on validating messages in a consumer pipeline, Integrated authentication with Microsoft Entra ID",10
+Connectors behavior and configuration,"Digibee JWT implementation, Timeout in the Pipeline Executor connector, How to use DISTINCT and COUNT in the Object Store",13
+Platform access and performance tips,How to receive updates from Digibee Status Page,12
+Governance troubleshooting guidance,"How to consume Internal API pipelines using ZTNA, How to generate, convert, and register SSH Keys, How to configure mTLS on the Digibee Integration Platform, FAQs: Certificates in mTLS",8
+How to consume Internal API pipelines using ZTNA,,10
+How to configure mTLS on the Digibee Integration Platform,,7
+FAQs: Certificates in mTLS,,6
+How to use DISTINCT and COUNT in the Object Store,,15
+"How to generate, convert, and register SSH Keys",,8
+Integrated authentication with Microsoft Entra ID,,11
+FAQs: Digibee Customer Support,,12
+"How to resolve the ""Pipeline execution was aborted"" error",,11
+How to receive updates from Digibee Status Page,,8
+How to view the Network Mappings associated with an Edge Router,,15
+How to add routes in batch for ZTNA,,19
